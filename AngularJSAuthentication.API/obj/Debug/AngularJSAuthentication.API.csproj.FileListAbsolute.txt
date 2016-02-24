@@ -1,0 +1,17 @@
+C:\Users\hussain-aryan\Downloads\AngularJSAuthentication-master(1)\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.API.dll.config
+C:\Users\hussain-aryan\Downloads\AngularJSAuthentication-master(1)\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.API.dll
+C:\Users\hussain-aryan\Downloads\AngularJSAuthentication-master(1)\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.API.pdb
+C:\Users\hussain-aryan\Downloads\AngularJSAuthentication-master(1)\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.Migrations.AddClientsAndRefreshTokenTables.resources
+C:\Users\hussain-aryan\Downloads\AngularJSAuthentication-master(1)\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.csproj.GenerateResource.Cache
+C:\Users\hussain-aryan\Downloads\AngularJSAuthentication-master(1)\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.dll
+C:\Users\hussain-aryan\Downloads\AngularJSAuthentication-master(1)\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.pdb
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.API.dll.config
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.API.dll
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.API.pdb
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.ResourceServer.dll
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\bin\AngularJSAuthentication.ResourceServer.pdb
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.csprojResolveAssemblyReference.cache
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.Migrations.AddClientsAndRefreshTokenTables.resources
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.csproj.GenerateResource.Cache
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.dll
+G:\API\AngularJSAuthentication-master\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.pdb
